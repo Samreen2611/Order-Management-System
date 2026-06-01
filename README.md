@@ -1,2 +1,2 @@
 # Order-Management-System
-Sql Basics quires have been applied on it
+Sql Basics quiries have been applied on it
